@@ -1,6 +1,11 @@
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
+## Aula Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding DIO
+
+## Valquiria M Aidar
+[Linkedin](https://www.linkedin.com/in/val-aidar/)
+
 ## Digital Innovation One
 
 [Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
